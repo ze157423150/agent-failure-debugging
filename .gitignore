@@ -1,0 +1,8 @@
+# Local experiments and credentials
+reports/
+.agent-sessions/
+.env
+.env.*
+*.local.properties
+__pycache__/
+.DS_Store
